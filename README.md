@@ -12,7 +12,7 @@ yarn add neoluddite
 
 - [Table Of Contents](#table-of-contents)
 - [API](#api)
-- [`async neoluddite(config: !Config): string`](#async-mynewpackageconfig-config-string)
+- [`async neoluddite(config: !Config): string`](#async-neoludditeconfig-config-string)
   * [`Config`](#type-config)
 - [CLI](#cli)
 - [Copyright & License](#copyright--license)

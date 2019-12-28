@@ -1,0 +1,10 @@
+{
+  "_neoluddite.neoluddite": {
+    "link": "https://github.com/artdecocode/neoluddite#async-neoludditeconfig-config-string",
+    "description": "Become part of Open Source anarchical movement and get payed for the value your packages create."
+  },
+  "_neoluddite.Config": {
+    "link": "https://github.com/artdecocode/neoluddite#type-config",
+    "description": "Options for the program."
+  }
+}
