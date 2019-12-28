@@ -1,1 +1,1 @@
-{{ description }}
+Become part of Open Source anarchical movement and get payed for the value your packages create.

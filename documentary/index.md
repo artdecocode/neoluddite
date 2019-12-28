@@ -1,11 +1,11 @@
-# my-new-package
+# neoluddite
 
-%NPM: my-new-package%
+%NPM: neoluddite%
 
-`my-new-package` is {{ description }}
+`neoluddite` is Become part of Open Source anarchical movement and get payed for the value your packages create.
 
 ```sh
-yarn add my-new-package
+yarn add neoluddite
 ```
 
 ## Table Of Contents

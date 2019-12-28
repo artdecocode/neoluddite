@@ -1,7 +1,7 @@
 import { join } from 'path'
 import { debuglog } from 'util'
 
-const LOG = debuglog('my-new-package')
+const LOG = debuglog('neoluddite')
 
 /**
  * A testing context for the package.
@@ -37,8 +37,8 @@ export default class Context {
 let BIN = 'src/BIN'
 if (process.env.ALAMODE_ENV == 'test-build') {
   console.log('Testing build bin...')
-  BIN = 'build/bin/mnp'
+  BIN = 'build/bin/neoluddite'
 } else if (process.env.ALAMODE_ENV == 'test-compile') {
   console.log('Testing compile bin...')
-  BIN = 'compile/bin/mnp'
+  BIN = 'compile/bin/neoluddite'
 }

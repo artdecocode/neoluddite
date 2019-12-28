@@ -1,6 +1,6 @@
 import '../types/externs'
-import myNewPackage from './'
+import neoluddite from './'
 
 module.exports = {
-  '_myNewPackage': myNewPackage,
+  '_neoluddite': neoluddite,
 }

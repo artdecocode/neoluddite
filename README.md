@@ -1,18 +1,18 @@
-# my-new-package
+# neoluddite
 
-[![npm version](https://badge.fury.io/js/my-new-package.svg)](https://www.npmjs.com/package/my-new-package)
+[![npm version](https://badge.fury.io/js/neoluddite.svg)](https://www.npmjs.com/package/neoluddite)
 
-`my-new-package` is {{ description }}
+`neoluddite` is Become part of Open Source anarchical movement and get payed for the value your packages create.
 
 ```sh
-yarn add my-new-package
+yarn add neoluddite
 ```
 
 ## Table Of Contents
 
 - [Table Of Contents](#table-of-contents)
 - [API](#api)
-- [`async myNewPackage(config: !Config): string`](#async-mynewpackageconfig-config-string)
+- [`async neoluddite(config: !Config): string`](#async-mynewpackageconfig-config-string)
   * [`Config`](#type-config)
 - [CLI](#cli)
 - [Copyright & License](#copyright--license)
@@ -26,15 +26,15 @@ yarn add my-new-package
 The package is available by importing its default function:
 
 ```js
-import myNewPackage from 'my-new-package'
+import neoluddite from 'neoluddite'
 ```
 
 <p align="center"><a href="#table-of-contents">
   <img src="/.documentary/section-breaks/1.svg?sanitize=true">
 </a></p>
 
-## <code>async <ins>myNewPackage</ins>(</code><sub><br/>&nbsp;&nbsp;`config: !Config,`<br/></sub><code>): <i>string</i></code>
-{{ description }}
+## <code>async <ins>neoluddite</ins>(</code><sub><br/>&nbsp;&nbsp;`config: !Config,`<br/></sub><code>): <i>string</i></code>
+Become part of Open Source anarchical movement and get payed for the value your packages create.
 
  - <kbd><strong>config*</strong></kbd> <em><code><a href="#type-config" title="Options for the program.">!Config</a></code></em>: The config.
 
@@ -47,17 +47,17 @@ __<a name="type-config">`Config`</a>__: Options for the program.
 | text      | <em>string</em>  | A text to return. | -       |
 
 ```js
-import myNewPackage from 'my-new-package'
+import neoluddite from 'neoluddite'
 
 (async () => {
-  const res = await myNewPackage({
+  const res = await neoluddite({
     text: 'example',
   })
   console.log(res)
 })()
 ```
 ```
-my-new-package called with example
+neoluddite called with example
 example
 ```
 
@@ -105,9 +105,9 @@ The package can also be used from the CLI.
 </table>
 
 ```
-{{ description }}
+Become part of Open Source anarchical movement and get payed for the value your packages create.
 
-  mnp input [-o output] [-ihv]
+  neoluddite input [-o output] [-ihv]
 
 	input        	The path to the input file.
 	--output, -o 	Where to save the output. By default prints to stdout.
@@ -118,7 +118,7 @@ The package can also be used from the CLI.
 
   Example:
 
-    mnp example.txt -o out.txt
+    neoluddite example.txt -o out.txt
 ```
 
 <p align="center"><a href="#table-of-contents">
@@ -127,12 +127,12 @@ The package can also be used from the CLI.
 
 ## Copyright & License
 
-{{ license_name }}
+GNU Affero General Public License v3.0
 
 <table>
   <tr>
-    <td><img src="https://avatars3.githubusercontent.com/u/38815725?v=4&amp;s=100" alt="{{ org }}"></td>
-    <td>© <a href="{{ website }}">{{ trademark }}</a> 2019</td>
+    <td><img src="https://avatars3.githubusercontent.com/u/38815725?v=4&amp;s=100" alt="artdecocode"></td>
+    <td>© <a href="https://www.artd.eco">Art Deco</a> 2019</td>
   </tr>
 </table>
 

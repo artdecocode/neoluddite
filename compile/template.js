@@ -1,12 +1,12 @@
-const { _myNewPackage } = require('./mnp')
+const { _neoluddite } = require('./neoluddite')
 
 /**
- * @methodType {_myNewPackage.myNewPackage}
+ * @methodType {_neoluddite.neoluddite}
  */
-function myNewPackage(config) {
-  return _myNewPackage(config)
+function neoluddite(config) {
+  return _neoluddite(config)
 }
 
-module.exports = myNewPackage
+module.exports = neoluddite
 
 /* typal types/index.xml namespace */
